@@ -1,4 +1,4 @@
-## Welcome Chainreaction
+## Chainreaction
 
 This is a simple Chainreaction game made using HTML and Javascript.
 
